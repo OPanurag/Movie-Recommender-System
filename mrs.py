@@ -137,18 +137,3 @@ import pickle
 
 pickle.dump(new,open('movie_list.pkl','wb'))
 pickle.dump(similarity,open('similarity.pkl','wb'))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
